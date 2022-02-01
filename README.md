@@ -17,12 +17,12 @@ They use the macos icons and are making money off of it, I think that's self exp
 This is the biggest reason to not use pearos (in my opinion)<br>
 **Warning: This part will contain screenshots with various slurs, the screenshots will be hidden, unless you actively click on the links to images.**<br>
 The main dev and "founder" of pearos is a huge bigot.<br>
-- [He actively uses the n-word](placeholder)
-- [He activerly uses the n-word part 2](placeholder)
-- [Finds transphobic "memes" funny](placeholder)
-- [Uses a transphobic slur in piri (I'll talk about this a bit more)](placeholder)
-- ["Gay is an offensive word for homophobes" -alexb]()
-- [In the discord server they have a running "joke" about using nice car and spoilering the "ce ca" part to make it look like they said the n word](placeholder)
+- [He actively uses the n-word](https://github.com/axtloss/pear-no-s/blob/main/images/n-words/Use%20of%20n-word.png)
+- [He activerly uses the n-word part 2](https://github.com/axtloss/pear-no-s/blob/main/images/n-words/Use%20of%20nword.png)
+- [Finds transphobic "memes" funny](https://github.com/axtloss/pear-no-s/blob/main/images/transphobic_meme.png)
+- [Uses a transphobic slur in piri (I'll talk about this a bit more)](https://github.com/axtloss/pear-no-s/blob/main/images/trans-slur.png)
+- ["Gay is an offensive word for homophobes" -alexb](https://github.com/axtloss/pear-no-s/blob/main/images/gay%20is%20offensive%20for%20homophobes.png)
+- [In the discord server they have a running "joke" about using nice car and spoilering the "ce ca" part to make it look like they said the n word](https://github.com/axtloss/pear-no-s/blob/main/images/nicecar.png)
 
 ## Transphobic slur in piri 
 This one is a special case, originally There was a [post on r/unixporn (has been deleted)](https://www.reddit.com/r/unixporn/comments/mqd9q2/plasmamom_can_we_have_macos_at_home/) <br>
