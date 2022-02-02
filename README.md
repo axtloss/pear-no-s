@@ -13,6 +13,14 @@ Pearos has a virtual assistant built into it, called "Piri", the backend of that
 <br>
 They use the macos icons and are making money off of it, I think that's self explanatory.<br>
 <br>
+### Neofetch
+What's a distro without proper representation in neofetch. The proper way to get your logo in neofetch is by forking neofetch, adding your distro and then opening a pr to upstream with that ascii. <br>
+Instead, and I have to admit I could've done it better myself, alexb asked me to create a custom neofetch that has the pearos logo and some extra visual changes, as well as a directly printed copyright message. This message was still there until one release after I left pearos (monterey), in nicecore, alexb just removed my name from that copyright message and left his name there: <br>
+Left shows the pearos nicecore neofetch and right the monterey neofetch
+![Left shows the pearos nicecore neofetch and right the monterey neofetch](https://github.com/axtloss/pear-no-s/blob/main/images/neofetch.png?raw=true)
+This obviously is not ok since I'm the original author of that modified neofetch (not to mention that the mit license with dylan's name is still in the source).
+<br>
+<br>
 ## Bigoted dev
 This is the biggest reason to not use pearos (in my opinion)<br>
 **Warning: This part will contain screenshots with various slurs, the screenshots will be hidden, unless you actively click on the links to images.**<br>
@@ -27,7 +35,7 @@ The main dev and "founder" of pearos is a huge bigot.<br>
 ## Transphobic slur in piri 
 This one is a special case, originally There was a [post on r/unixporn (has been deleted)](https://www.reddit.com/r/unixporn/comments/mqd9q2/plasmamom_can_we_have_macos_at_home/) <br>
 And then there was this comment [CW: contains transphobic slur](https://www.reddit.com/r/unixporn/comments/mqd9q2/comment/gufyq5b/?utm_source=share&utm_medium=web2x&context=3) <br>
-It was true, Alexb included a slur in piri. I contacted him about that and told him to remove it and he supposedly did. But with the release of pearos monterey (after thhttps://www.reddit.com/r/unixporn/comments/mqd9q2/plasmamom_can_we_have_macos_at_home/is whole thing has happened), look what I found: <br>
+It was true, Alexb included a slur in piri. I contacted him about that and told him to remove it and he supposedly did. But with the release of pearos monterey (after the https://www.reddit.com/r/unixporn/comments/mqd9q2/plasmamom_can_we_have_macos_at_home/ thing has happened), look what I found: <br>
 [CW: transphobic slur](placeholder)
 This one really annoys me because it's really just disrespectful, he includes a transphobic slur in an application of which the backend was made by a trans person. Not only did he _lie_ to me and others about having it removed, he also just continued including it in newer releases and didn't even patch it from the release that was the newest during that time. <br>
 <br>
