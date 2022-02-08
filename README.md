@@ -34,12 +34,13 @@ The main dev and "founder" of pearos is a huge bigot.<br>
 - [Uses a transphobic slur in piri (I'll talk about this a bit more)](https://github.com/axtloss/pear-no-s/blob/main/images/trans-slur.png)
 - ["Gay is an offensive word for homophobes" -alexb](https://github.com/axtloss/pear-no-s/blob/main/images/gay%20is%20offensive%20for%20homophobes.png)
 - [In the discord server they have a running "joke" about using nice car and spoilering the "ce ca" part to make it look like they said the n word](https://github.com/axtloss/pear-no-s/blob/main/images/nicecar.png)
+- [Deadnamed me](https://github.com/axtloss/pear-no-s/blob/main/images/deadnaming.png)
 
 ## Transphobic slur in piri 
 This one is a special case, originally There was a [post on r/unixporn (has been deleted)](https://www.reddit.com/r/unixporn/comments/mqd9q2/plasmamom_can_we_have_macos_at_home/) <br>
 And then there was this comment [CW: contains transphobic slur](https://www.reddit.com/r/unixporn/comments/mqd9q2/comment/gufyq5b/?utm_source=share&utm_medium=web2x&context=3) <br>
 It was true, Alexb included a slur in piri. I contacted him about that and told him to remove it and he supposedly did. But with the release of pearos monterey (after the https://www.reddit.com/r/unixporn/comments/mqd9q2/plasmamom_can_we_have_macos_at_home/ thing has happened), look what I found: <br>
-[CW: transphobic slur](placeholder)
+[CW: transphobic slur](https://github.com/axtloss/pear-no-s/blob/main/images/trans-slur.png)
 This one really annoys me because it's really just disrespectful, he includes a transphobic slur in an application of which the backend was made by a trans person. Not only did he _lie_ to me and others about having it removed, he also just continued including it in newer releases and didn't even patch it from the release that was the newest during that time. <br>
 <br>
 ___
