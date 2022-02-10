@@ -36,6 +36,16 @@ The main dev and "founder" of pearos is a huge bigot.<br>
 - [In the discord server they have a running "joke" about using nice car and spoilering the "ce ca" part to make it look like they said the n word](https://github.com/axtloss/pear-no-s/blob/main/images/nicecar.png)
 - [Used the n-word in a script shipped in pearos Cupertino](https://github.com/axtloss/pear-no-s/blob/main/images/n-words/nword-in-script.png), it's in `/usr/share/extras/pear-map-plymouth/install.sh` you can view this file on pearos cupertino 20.09, (available on archive.org), [this is what it looks like when executed](https://github.com/axtloss/pear-no-s/blob/main/images/n-words/n-word-in-script-executed.png)
 - [Deadnamed me](https://github.com/axtloss/pear-no-s/blob/main/images/deadnaming.png)
+- [This whole thing](https://github.com/axtloss/pear-no-s/issues/2) in which he
+  - deadnames me
+  - uses their trans services provide as an excuse as of why he's not transphobic
+  - Makes a transphobic joke <details> <summary> CW:: Transphobic joke </summary> "Why did you assume my gender? (that question is with humouristic purposes, I go by hell/boy. Jk again, I go as he/him. For real" </details>
+  - After being told by multiple trans people that "s\*\*\*ale" is a transphobic slur, he still [looked up what it means to prove me wrong](https://github.com/axtloss/pear-no-s/issues/2#issuecomment-1032974828)
+  - [Tries to justify deadnaming](https://github.com/axtloss/pear-no-s/issues/2#issuecomment-1032977894)
+  - [Quotes a law that doesn't even apply to me](https://github.com/axtloss/pear-no-s/issues/2#issuecomment-1033466894), and trying to use scare tactics on me(mind that I'm a minor), to get me to not be silent
+  - Tries to justify Racism/using the n word "In Balkans we don t share the same racism obsession, for Balkan people it is JUST a word" [as well as this](https://github.com/axtloss/pear-no-s/blob/main/images/n-words/justifynword.jpg)(for context, I found the nword in the script mentioned before and asked him about it, he tried to justify it like that)
+  - The fact that "My opinion 'bout LGBT people and black people" exists in https://github.com/axtloss/pear-no-s/issues/2#issuecomment-1032915921
+  - and much more (read through the issue and you should see them)
 
 ## Transphobic slur in piri 
 This one is a special case, originally There was a [post on r/unixporn (has been deleted)](https://www.reddit.com/r/unixporn/comments/mqd9q2/plasmamom_can_we_have_macos_at_home/) <br>
