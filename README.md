@@ -34,6 +34,7 @@ The main dev and "founder" of pearos is a huge bigot.<br>
 - [Uses a transphobic slur in piri (I'll talk about this a bit more)](https://github.com/axtloss/pear-no-s/blob/main/images/trans-slur.png)
 - ["Gay is an offensive word for homophobes" -alexb](https://github.com/axtloss/pear-no-s/blob/main/images/gay%20is%20offensive%20for%20homophobes.png)
 - [In the discord server they have a running "joke" about using nice car and spoilering the "ce ca" part to make it look like they said the n word](https://github.com/axtloss/pear-no-s/blob/main/images/nicecar.png)
+- [Used the n-word in a script shipped in pearos Cupertino](https://github.com/axtloss/pear-no-s/blob/main/images/n-words/nword-in-script.png), it's in `/usr/share/extras/pear-map-plymouth/install.sh` you can view this file on pearos cupertino 20.09, (available on archive.org), [this is what it looks like when executed](https://github.com/axtloss/pear-no-s/blob/main/images/n-words/n-word-in-script-executed.png)
 - [Deadnamed me](https://github.com/axtloss/pear-no-s/blob/main/images/deadnaming.png)
 
 ## Transphobic slur in piri 
