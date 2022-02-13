@@ -46,6 +46,7 @@ The main dev and "founder" of pearos is a huge bigot.<br>
   - Tries to justify Racism/using the n word "In Balkans we don t share the same racism obsession, for Balkan people it is JUST a word" [as well as this](https://github.com/axtloss/pear-no-s/blob/main/images/n-words/justifynword.jpg)(for context, I found the nword in the script mentioned before and asked him about it, he tried to justify it like that)
   - The fact that "My opinion 'bout LGBT people and black people" exists in https://github.com/axtloss/pear-no-s/issues/2#issuecomment-1032915921
   - and much more (read through the issue and you should see them)
+- [Makes jokes against disabled people](https://github.com/axtloss/pear-no-s/blob/main/images/jokeagainstdownsindrome.png)
 
 ## Transphobic slur in piri 
 This one is a special case, originally There was a [post on r/unixporn (has been deleted)](https://www.reddit.com/r/unixporn/comments/mqd9q2/plasmamom_can_we_have_macos_at_home/) <br>
