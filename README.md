@@ -38,7 +38,7 @@ The main dev and "founder" of pearos is a huge bigot.<br>
 - [Deadnamed me](https://github.com/axtloss/pear-no-s/blob/main/images/deadnaming.png)
 - [This whole thing](https://github.com/axtloss/pear-no-s/issues/2) in which he
   - deadnames me
-  - uses their trans services provide as an excuse as of why he's not transphobic
+  - uses their trans service provider as an excuse as of why he's not transphobic
   - Makes a transphobic joke <details> <summary> CW:: Transphobic joke </summary> "Why did you assume my gender? (that question is with humouristic purposes, I go by hell/boy. Jk again, I go as he/him. For real" </details>
   - After being told by multiple trans people that "s\*\*\*ale" is a transphobic slur, he still [looked up what it means to prove me wrong](https://github.com/axtloss/pear-no-s/issues/2#issuecomment-1032974828)
   - [Tries to justify deadnaming](https://github.com/axtloss/pear-no-s/issues/2#issuecomment-1032977894)
