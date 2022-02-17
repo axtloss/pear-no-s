@@ -23,6 +23,12 @@ Left shows the pearos nicecore neofetch and right the monterey neofetch
 ![Left shows the pearos nicecore neofetch and right the monterey neofetch](https://github.com/axtloss/pear-no-s/blob/main/images/neofetch.png?raw=true)
 This obviously is not ok since I'm the original author of that modified neofetch (not to mention that the mit license with dylan's name is still in the source).
 <br>
+### Pearos-arch
+Alexb is trying to release pearos based on arch again, which isn't an issue in itself, except that all the build scripts and arch configuration is copied from [archlinux gui(here also referred to as "alg")](https://github.com/arch-linux-gui), without ever mentioning that the code was taken from archlinux gui in the readme or code(not even making the pearos arch repo a fork of archlinux gui). Some examples:
+- [The hostname is archlinuxgui](https://github.com/axtloss/pear-no-s/blob/main/images/pearos-arch-copied/alg-hostname.jpg)
+- [Package list also seems to be copied from alg](https://github.com/axtloss/pear-no-s/blob/main/images/pearos-arch-copied/alg-packages.png)
+- [Using alg repos](https://github.com/axtloss/pear-no-s/blob/main/images/pearos-arch-copied/alg-repos.png)
+- The copyright header on all files (`SPDX-License-Identifier: GPL-3.0-or-later`) appears on the same point and files as in the alg files.
 <br>
 ## Bigoted dev
 This is the biggest reason to not use pearos (in my opinion)<br>
