@@ -30,6 +30,7 @@ Alexb is trying to release pearos based on arch again, which isn't an issue in i
 - [Using alg repos](https://github.com/axtloss/pear-no-s/blob/main/images/pearos-arch-copied/alg-repos.png)
 - The copyright header on all files (`SPDX-License-Identifier: GPL-3.0-or-later`) appears on the same point and files as in the alg files.
 <br>
+
 ## Bigoted dev
 This is the biggest reason to not use pearos (in my opinion)<br>
 **Warning: This part will contain screenshots with various slurs, the screenshots will be hidden, unless you actively click on the links to images.**<br>
