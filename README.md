@@ -55,6 +55,7 @@ The main dev and "founder" of pearos is a huge bigot.<br>
   - and much more (read through the issue and you should see them)
 - [Makes jokes against disabled people](https://github.com/axtloss/pear-no-s/blob/main/images/jokeagainstdownsindrome.png)
 - [Makes an "All lives matter" joke as a response to me mentioning the point above](https://github.com/axtloss/pear-no-s/blob/main/images/windowmanagerlivesmatter.jpg)
+- [Uses black emojis(he is not black) and then says "oh wait is using black emojis also offensive", in a mocking tone](https://github.com/axtloss/pear-no-s/blob/main/images/blackemojis.jpg)
 
 ## Transphobic slur in piri 
 This one is a special case, originally There was a [post on r/unixporn (has been deleted)](https://www.reddit.com/r/unixporn/comments/mqd9q2/plasmamom_can_we_have_macos_at_home/) <br>
