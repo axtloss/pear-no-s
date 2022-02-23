@@ -28,7 +28,11 @@ Alexb is trying to release pearos based on arch again, which isn't an issue in i
 - [The hostname is archlinuxgui](https://github.com/axtloss/pear-no-s/blob/main/images/pearos-arch-copied/alg-hostname.jpg)
 - [Package list also seems to be copied from alg](https://github.com/axtloss/pear-no-s/blob/main/images/pearos-arch-copied/alg-packages.png)
 - [Using alg repos](https://github.com/axtloss/pear-no-s/blob/main/images/pearos-arch-copied/alg-repos.png)
-- The copyright header on all files (`SPDX-License-Identifier: GPL-3.0-or-later`) appears on the same point and files as in the alg files.
+- The copyright header on all files (`SPDX-License-Identifier: GPL-3.0-or-later`) appears on the same point and files as in the alg files. [But also uses the pear license for other stuff?]()
+<br>
+
+## Violation of GDPR
+In the website https://pearos.xyz/ they show a button for the privacy policy, which is needed by for-profit companies (pearos is one since they do make money), however when clicking on that, it leads you to https://privacy.pearos.xyz/ which you can't access because it returns a 403 nginx error. That means that pearos doesn't show the user any privacy policy. Which violates the gdpr.
 <br>
 
 ## Bigoted dev
